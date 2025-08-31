@@ -80,7 +80,6 @@ omegaconf==2.3.0
 packaging==25.0
 pandas==2.3.0
 pillow==11.2.1
-pip3==25.1.1
 plotly==6.2.0
 protobuf==6.32.0
 psutil==7.0.0
@@ -114,7 +113,7 @@ service-identity==24.1.0
 setuptools==68.1.2
 six==1.16.0
 smmap==5.0.2
-streamlit==1.48.1
+streamlit==1.24.0
 sympy==1.14.0
 systemd-python==235
 tenacity==9.1.2

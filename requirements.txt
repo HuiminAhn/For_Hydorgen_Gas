@@ -80,6 +80,7 @@ omegaconf==2.3.0
 packaging==25.0
 pandas==2.3.0
 pillow==11.2.1
+pip==25.2
 plotly==6.2.0
 protobuf==6.32.0
 psutil==7.0.0
